@@ -1,0 +1,13 @@
+input {
+    display: none;
+}
+
+label {
+    
+}
+
+label span {
+    font-size: 200px;
+    border: solid 1px black;
+
+}

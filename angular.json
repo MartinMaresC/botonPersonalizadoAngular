@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "botonPersonalizadoAngular": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "botonPersonalizadoAngular"
+    }
+  },
+  "defaultProject": "botonPersonalizadoAngular",
+  "cli": {
+    "analytics": "9b357a8b-27bd-4352-8bd7-3bae01920295"
+  }
 }
